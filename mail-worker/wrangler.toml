@@ -7,9 +7,9 @@ keep_vars = true
 enabled = true
 
 #[[d1_databases]]
-#binding = "db"			#d1数据库绑定名默认不可修改
-database_name = "cloud-email"		#d1数据库名字
-database_id = "1260d4f2-d0f1-4a6c-ba2f-826d65193367"		#d1数据库id
+binding = "db"			#d1数据库绑定名默认不可修改
+database_name = "cloud-mail"		#d1数据库名字
+database_id = "0943fde4-15e8-4103-9ab2-91bf0a204f8e"		#d1数据库id
 
 #[[kv_namespaces]]
 #binding = "kv"			#kv绑定名默认不可修改
